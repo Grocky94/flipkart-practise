@@ -397,3 +397,29 @@
     margin-top: 2px;
     border: 1px solid black;
 }
+#top-sto{
+    margin-top: 15px;
+    
+}
+.brand-cont{
+    margin-top: 5px;
+}
+.brand-di-title{
+color: #a48e84;
+margin-top: 5px;
+}
+.brand-di-details{
+    color:#8d91a1
+}
+.bold-head{
+    color: #8a8787;
+}
+.bold-head-detail{
+    margin-top: -12px;
+    font-size: smaller;
+    color: #baafab;
+}
+.bold-head-detail-a{
+    font-size: smaller;
+     color: #baafab;
+}
