@@ -197,7 +197,7 @@
 #icici {
     height: 120px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 #icici>img {
@@ -209,7 +209,7 @@
 .topoffers {
     height: 300px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: space-around;
 }
@@ -218,12 +218,12 @@
     height: 290px;
     width: 220px;
     margin-top: 4px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .topoffers-img {
     height: 180px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .onlyTop {
@@ -279,7 +279,7 @@
 #ambrane {
     height: 300px;
     width: 300px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     position: absolute;
     margin-left: 78%;
 }
@@ -293,7 +293,7 @@
 #moveNext {
     height: 100px;
     width: 50px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     position: absolute;
     margin-top: 8%;
     margin-left: 55%;
@@ -303,7 +303,7 @@
 #moveNext-rs {
     height: 100px;
     width: 50px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     position: absolute;
     margin-top: 8%;
     margin-left: 95%;
@@ -319,28 +319,28 @@
 .buyMore{
     height:260px;
     width:100%;
-    border:1px solid black;
+    /* border:1px solid black; */
     display:flex;
     justify-content: space-around;
 }
 .buyMore-win{
     height:260px;
     width:480px;
-    border:1px solid black;
+    /* border:1px solid black; */
     background-color: #ffffff;
 }
 .buyMore-img{
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 .feature-outline{
     height: 300px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 .feature-head{
     height:50px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 .feature-head>h1{
     margin-top: 3px;
@@ -348,31 +348,31 @@
 .feature-inner-outline{
     height:245px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display:flex;
 }
 .feature-img{
     height:240px;
     width:400px;
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 .feaImage{
     width:385px;
     object-fit: cover;
     margin-left: 5px;
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 .feature-img-small{
     height:240px;
     width:290px;
     overflow:hidden;
-    border:1px solid black;
+    /* border:1px solid black; */
     
 }
 #moveNext-rs-d{
     height: 100px;
     width: 50px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     position: absolute;
     margin-top: 5%;
     margin-left: 95%;
@@ -382,20 +382,20 @@
 .under-div{
     height:150px;
     width: 100%;
-    border:1px solid black;
+    /* border:1px solid black; */
     display: flex;
 }
 .under-cont{
     height:150px;
     width:400px;
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 .under-img{
     width:350px;
     object-fit: cover; 
     margin-left: 10px;
     margin-top: 2px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 #top-sto{
     margin-top: 15px;
@@ -423,3 +423,77 @@ margin-top: 5px;
     font-size: smaller;
      color: #baafab;
 }
+#cab{
+    height:400px;
+    width:100%;
+    /* border:1px solid black; */
+background-color: #172337;
+}
+#inside-above{
+    height:330px;
+    width:100%;
+    /* border:1px solid black; */
+    display:flex;
+    text-align: left;
+}
+.about-add{
+    height:260px;
+    width: 260px;
+    margin-top: 10px;
+    /* border:1px solid black; */
+}
+.about-add>a{
+   text-decoration: none; 
+   color: white;
+}
+.about-add>div{
+    color: #6c675e;
+}
+#social-div{
+    height:260px;
+    width: 260px;
+    border-right:1px solid black;
+}
+#social-div{
+    color:#6c675e ;
+}
+.social-list{
+    color:white;
+}
+#mai{
+    margin-left: 10px;
+    color: white;
+}
+#reg{
+    color: white;
+}
+.num{
+    color: #2874F0;
+}
+#below-align{
+    height:30px;
+    width:100%;
+    /* border:1px solid black; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.cooperate{
+    height:30px;
+    width:auto;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.fa-briefcase,.fa-circle,.fa-gift{
+    color: #eedc13;
+    
+}
+.help{
+    margin-top: 10px;
+    margin-left:5px;
+    color: white;
+}
+.fa-star,.fa-question{
+    color: black;
+}
+
